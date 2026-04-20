@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+serviceAccountKey.json
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
