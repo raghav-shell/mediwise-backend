@@ -35,13 +35,13 @@ MediWise is a premium, cloud-native healthcare application designed to bridge th
 ![Home Dashboard](https://raw.githubusercontent.com/raghav-shell/mediwise-frontend/main/public/home-screenshot.png)
 
 ### 2. AI Prescription Scanning
-![Prescription Scan](https://images.unsplash.com/photo-1584982751601-97dcc096659c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+![Prescription Scan](https://raw.githubusercontent.com/raghav-shell/mediwise-frontend/main/public/scan-screenshot.png)
 
 ### 3. Drug Interaction Checker
-![Interaction Checker](https://images.unsplash.com/photo-1550831107-1553da8c8464?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+![Interaction Checker](https://raw.githubusercontent.com/raghav-shell/mediwise-frontend/main/public/interact-screenshot.png)
 
 ### 4. Personal Medicine Cabinet
-![My Cabinet](https://images.unsplash.com/photo-1631549916768-4119b2e5f926?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
+![My Cabinet](https://raw.githubusercontent.com/raghav-shell/mediwise-frontend/main/public/cabinet-screenshot.png)
 
 ---
 
